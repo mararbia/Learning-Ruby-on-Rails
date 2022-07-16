@@ -54,6 +54,20 @@
 #puts "BBB AAA".match(/A{3,}/)
 
 
+# Testes
+
+# text = "Olá, tudo bem? Meu whats app é (99) 7 4321-1234"
+
+# puts regex = /\(\d{2}\) \d \d{4}-\d{4}/.match(text)
+
+# number = "(35) - {63} - [25]"
+# puts regex = /\(\d{2}\) - \{\d{2}\} - \[\d{2}\]/.match(number)
+
+# cpf = "000.000.000-00"
+# puts regex = /\d{3}.\d{3}.\d{3}-\d{2}/.match(cpf)
+
+
+
 
 
 
